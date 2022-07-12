@@ -1,4 +1,4 @@
-### <strong> Welcome to my profile! | Bem vindo ao meu perfil! </strong>
+## <strong> Welcome to my profile! | Bem vindo ao meu perfil! </strong>
 ---
 - Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. 3/4
 - Atua na Quickin como Estagiária.
