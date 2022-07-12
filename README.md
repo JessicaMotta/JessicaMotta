@@ -5,10 +5,10 @@
 
 > 📍 Linguagens mais usadas aqui no meu GitHub
 ##
-<img align="right" alt="Rafa-yoda" width="300em" heigth="160em" src="https://media2.giphy.com/media/FIZ1QC610AAhi/giphy.gif">
+<img align="right" alt="Rafa-yoda" width="300em" heigth="100em" src="https://media2.giphy.com/media/FIZ1QC610AAhi/giphy.gif">
 <div>
   <a href="https://github.com/JessicaMotta">
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaMotta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaMotta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ---
