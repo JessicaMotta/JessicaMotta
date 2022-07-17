@@ -1,5 +1,4 @@
 ## <strong> Welcome to my profile! | Bem vindo ao meu perfil! </strong>
----
 - Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. 3/4
 - Atua na Quickin como Estagiária.
 
@@ -11,19 +10,20 @@
 </div>
   
 ---
-  > 👩‍💻 Linguagens 
+  ### 👩‍💻 Linguagens 
   ##
  <div style="display: inline_block"><br>
-    <img align="center" alt="jessica-html" height="35" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="jessica-css" height="35" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="jessica-python" height="35" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="jessica-java" height="35" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="jessica-javas" height="35" width="80" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="jessica-javas" height="35" width="80" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+    <img align="center" alt="css" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+    <img align="center" alt="js" height="60" width="80"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="mysql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="python" height="60" wid60th="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+     <img align="center" alt="nodejs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
   
 ---
-  > 🌐 Sociais  
+  ### 🌐 Sociais  
   ##
 <div>
       <a href="https://www.linkedin.com/in/jessicamotabispo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
