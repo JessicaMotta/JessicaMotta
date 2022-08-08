@@ -1,4 +1,4 @@
-## <p align="center"> 🌻 Bem vindo ao meu perfil! | Welcome to my profile! 🌻 </p>
+## <p align="center"> :white_heart: Bem vindo ao meu perfil! | Welcome to my profile! :white_heart: </p>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/jessicamotabispo/" target="_blank">
