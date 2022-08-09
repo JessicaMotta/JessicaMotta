@@ -15,7 +15,7 @@ _Tenho 18 anos, sou de São Paulo capital, estou nessa jornada para me tornar um
 
 - Sou apaixonada por tecnoligia, mais especifico em programação.
 - Estou no último semestre de Análise e Desenvolvimento de Sistemas.
-- Atualmente sou estágiaria Estagiária.
+- Atualmente sou estágiaria.
 - Meu maior objetivo atualmente seria ingressar profissionalmente na área de desenvolvimento e auxiliar aspirantes em programação.
 
 ### 📈 Estatísticas
