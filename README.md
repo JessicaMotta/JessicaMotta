@@ -11,7 +11,7 @@
 
 <p>  Sobre mim:  </p>
 
-_Tenho 18 anos, sou de São Paulo capital, estou nessa jornada para me tornar uma desenvolvedora!_
+_Tenho 21 anos, sou de São Paulo capital, estou nessa jornada para me tornar uma desenvolvedora!_
 
 - Sou apaixonada por tecnologia, mais especifico em programação.
 - Estou no último semestre de Análise e Desenvolvimento de Sistemas.
